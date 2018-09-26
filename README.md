@@ -4,6 +4,7 @@ python, java, tensor flow
 more details at project 3 summary.docx 
 
 videos for the project:
+
     https://www.youtube.com/watch?v=bq43vdvVWnc
     
     https://www.youtube.com/watch?v=bClPtZGUh-s
