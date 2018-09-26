@@ -5,6 +5,7 @@ more details at project 3 summary.docx
 
 videos for the project:
     https://www.youtube.com/watch?v=bq43vdvVWnc
+    
     https://www.youtube.com/watch?v=bClPtZGUh-s
 
  A describing how code is structured and the state of how it works. Give a description for each filename listed. 
